@@ -3,3 +3,10 @@
       padding: 0px;
       box-sizing: border-box;
 }
+.p1 {
+      color: blueviolet;
+      border: 2px dashed blueviolet;
+}
+.p2 {
+      color: brown;
+}
