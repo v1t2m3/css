@@ -3,10 +3,15 @@
       padding: 0px;
       box-sizing: border-box;
 }
-.p1 {
-      color: blueviolet;
-      border: 2px dashed blueviolet;
+.container {
+      margin: auto;
+      width: 90%;
 }
-.p2 {
+
+.p3 {
       color: brown;
+}
+.ul-img ul {
+      list-style-position: inside;
+      list-style-type: circle;
 }
